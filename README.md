@@ -37,6 +37,3 @@ Eraser.io — Diagram as Code (ERD syntax)
 ## Files
 - parking_erd.eraser  → source ERD code
 - comic_con_parking_erd.png → exported diagram image
-
-## Author
-[Your Name]
